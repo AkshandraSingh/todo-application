@@ -67,12 +67,3 @@ Excited to contribute or need to report an issue? Here's your roadmap:
 5. 🔄 **Open a pull request**.
 
 Make sure your code adheres to the project's coding style and conventions. For bug reports or feature requests, don't hesitate to open an issue.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to utilize, adapt, or distribute it in accordance with the license terms.
-
-```
-
-I've added emojis to various sections to make it more visually engaging. You can further customize the emojis or add more as you see fit.
-```
